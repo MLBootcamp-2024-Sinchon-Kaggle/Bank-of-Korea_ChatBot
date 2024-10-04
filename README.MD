@@ -9,7 +9,9 @@ Google ML Bootcamp 2024 Gemma Sprint : 김지우 박지훈 신재솔
 
 The announcements and publications from central banks have a profound impact on both the financial sector and the broader economy. In response to this, we are developing a chatbot system designed to answer questions related to the Bank of Korea’s policies and research findings. To support this, we are creating a comprehensive dataset from the Bank of Korea’s annual reports and press releases. This chatbot will be a valuable resource for anyone seeking insights into the economic policies and decisions made by the Bank of Korea.
 
-<img src=""https://github.com/MLBootcamp-2024-Sinchon-Kaggle/Bank-of-Korea_ChatBot/blob/main/BoK%20ChatBot%20DFD.png" alt="이미지의 묘사 내용" />
+<img src="https://github.com/MLBootcamp-2024-Sinchon-Kaggle/Bank-of-Korea_ChatBot/blob/main/BoK%20ChatBot%20DFD.png?raw=true" alt="이미지의 묘사 내용" />
+
+
 
 [데이터]
 * 한국은행의 연차보고서 2019-2023
